@@ -1,9 +1,13 @@
 .Dictionary {
   padding: 60px 20px;
   background: rgba(235, 240, 246, 0.7);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 .imageSection {
   background: rgba(152, 204, 211, 0.7);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 .Dictionary input {
   width: 100%;
