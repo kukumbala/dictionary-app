@@ -1,0 +1,21 @@
+.Dictionary {
+  padding: 60px 20px;
+  background: rgba(235, 240, 246, 0.7);
+}
+.imageSection {
+  background: rgba(152, 204, 211, 0.7);
+}
+.Dictionary input {
+  width: 100%;
+  border: 1px solid rgb(100, 164, 228);
+  border-radius: 5px;
+  padding: 5px 8px;
+  color: #132238;
+}
+section {
+  background: rgb(174, 206, 239);
+  padding: 25px 15px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  margin: 15px;
+}

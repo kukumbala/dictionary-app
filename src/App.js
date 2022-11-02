@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Dictionary />
+        <Dictionary defaultWord="sun" />
       </div>
       <footer>
         This project was coded by Alex and is{" "}
