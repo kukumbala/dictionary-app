@@ -1,5 +1,5 @@
 .Dictionary {
-  padding: 60px 20px;
+  padding: 60px 30px 60px 15px;
   background: rgba(235, 240, 246, 0.7);
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
@@ -8,6 +8,13 @@
   background: rgba(152, 204, 211, 0.7);
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 15px;
+}
+.Dictionary h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  padding-bottom: 15px;
 }
 .Dictionary input {
   width: 100%;
@@ -21,5 +28,5 @@ section {
   padding: 25px 15px;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-  margin: 15px;
+  margin: 15px 0;
 }
