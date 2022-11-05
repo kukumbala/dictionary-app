@@ -1,5 +1,5 @@
 .App {
-  background: rgba(54, 78, 104, 0.5);
+  background: rgba(54, 78, 104, 0.7);
   padding: 40px 0;
   color: #132238;
 }
@@ -7,5 +7,5 @@
 footer {
   font-size: 14px;
   text-align: center;
-  padding-top: 60px;
+  padding-top: 20px;
 }

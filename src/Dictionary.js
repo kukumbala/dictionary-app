@@ -64,8 +64,10 @@ export default function Dictionary(props) {
             </section>
             <Results results={results} />
           </div>
-          <div className="col-12 col-lg-5 imageSection">
-            <Photos photos={photos} />
+          <div className="col-12 col-lg-5">
+            <section>
+              <Photos photos={photos} />
+            </section>
           </div>
         </div>
       </div>
